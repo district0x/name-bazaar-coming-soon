@@ -1,0 +1,9 @@
+.circleci
+.DS_Store
+.git
+.gitignore
+.github
+Dockerfile
+node_modules
+npm-debug.log
+README.md
